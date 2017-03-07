@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CheckYourScreen/device_oneplus_onyx" path="device/oneplus/onyx" revision="validus-n" remote="github" />
+  <project name="Lineageos/android_device_oppo_common" path="device/oppo/common" revision="cm-14.1" remote="github" />
+  <project name="CheckYourScreen/Arsenic.Kernel" path="kernel/oneplus/onyx" revision="stable" remote="github"/>
+  <project name="BigTopKrazies/vendor_oneplus" path="vendor/oneplus" revision="n7.1" remote="github" />
+  <project name="Lineageos/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" revision="cm-14.1" remote="github" />
+  <project name="Lineageos/android_external_stlport" path="external/stlport" revision="cm-14.1" remote="github" />
+  <project name="Lineageos/android_device_qcom_common" path="device/qcom/common" revision="cm-14.1" remote="github" />
+  <project name="BigTopKrazies/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" revision="n7.1" remote="github" />
+</manifest>
