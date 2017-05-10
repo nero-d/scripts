@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="github" fetch="https://github.com" />
   <project name="CheckYourScreen/device_oneplus_onyx" path="device/oneplus/onyx" revision="validus-n" remote="github" />
   <project name="Tesla-M-Devices/device_oppo_common" path="device/oppo/common" revision="n7.1" remote="github" />
   <project name="CheckYourScreen/Arsenic.Kernel" path="kernel/oneplus/onyx" revision="stable" remote="github"/>
