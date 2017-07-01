@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="git" fetch="https://github.com" />
+  <project name="nero-d/android_device_oneplus_onyx" path="device/oneplus/onyx" revision="n7x-caf" remote="git" />
+  <project name="DirtyUnicorns/android_device_oppo_common" path="device/oppo/common" revision="n7x-caf" remote="git" />
+  <project name="CheckYourScreen/Arsenic.Kernel" path="kernel/oneplus/onyx" revision="stable" remote="git"/>
+  <project name="BigTopKrazies/vendor_oneplus_onyx" path="vendor/oneplus" revision="n7.1" remote="git" />
+  <project name="BigTopKrazies/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" revision="n7.1" remote="git" />
+</manifest>
