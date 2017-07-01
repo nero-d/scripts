@@ -6,4 +6,11 @@
   <project name="CheckYourScreen/Arsenic.Kernel" path="kernel/oneplus/onyx" revision="stable" remote="git"/>
   <project name="BigTopKrazies/vendor_oneplus_onyx" path="vendor/oneplus" revision="n7.1" remote="git" />
   <project name="BigTopKrazies/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" revision="n7.1" remote="git" />
+  
+<!--Repos to remove-->
+
+  <remove-project name="android_hardware_qcom_wlan" path="hardware/qcom/wlan" remote="du" revision="n-caf" />
+<!--Repos to replace-->
+  <project name="LineageOS/android_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" remote="github" revision="cm-14.0-caf" />
+  
 </manifest>
