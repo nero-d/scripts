@@ -11,5 +11,5 @@
   <remove-project name="android_hardware_qcom_wlan" path="hardware/qcom/wlan" remote="du" revision="n-caf" />
  
 <!--Repos to replace-->
-  <project name="LineageOS/android_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" remote="github" revision="cm-14.0-caf" />
+  <project name="LineageOS/android_hardware_qcom_wlan" path="hardware/qcom/wlan" remote="github" revision="cm-14.0-caf" />
 </manifest>
