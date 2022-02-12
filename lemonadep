@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com" />
+  <project name="nero-d/hardware_oneplus" path="hardware/oneplus" revision="derp12" remote="github" />
+  <project name="nero-d/vendor_oneplus_lemonadep" path="vendor/oneplus/lemonadep" revision="derp12" remote="github" />
+  <project name="nero-d/vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="derp12" remote="github"/>
+  <project name="nero-d/android_device_qcom_common" path="device/qcom/common" revision="derp12" remote="github" />
+  <project name="nero-d/kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="derp12" remote="github" />
+  <project name="nero-d/device_oneplus_lemonadep" path="device/oneplus/lemonadep" revision="derp12" remote="github" />
+  <project name="nero-d/device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="derp12" remote="github" />
+</manifest>
