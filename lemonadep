@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="git" fetch="https://github.com" />
-  <project name="nero-d/hardware_oneplus" path="hardware/oneplus" revision="derp12" remote="git" />
-  <project name="nero-d/vendor_oneplus_lemonadep" path="vendor/oneplus/lemonadep" revision="derp12" remote="git" />
-  <project name="nero-d/vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="derp12" remote="git"/>
-  <project name="nero-d/android_device_qcom_common" path="device/qcom/common" revision="derp12" remote="git" />
-  <project name="nero-d/kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="derp12" remote="git" />
-  <project name="nero-d/device_oneplus_lemonadep" path="device/oneplus/lemonadep" revision="derp12" remote="git" />
-  <project name="nero-d/device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="derp12" remote="git" />
+  <project name="chandu078/hardware_oneplus" path="hardware/oneplus" revision="12" remote="git" />
+  <project name="chandu078/vendor_oneplus_lemonadep" path="vendor/oneplus/lemonadep" revision="12" remote="git" />
+  <project name="chandu078/vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="12" remote="git"/>
+  <project name="chandu078/android_device_qcom_common" path="device/qcom/common" revision="12" remote="git" />
+  <project name="chandu078/kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="12" remote="git" />
+  <project name="chandu078/device_oneplus_lemonadep" path="device/oneplus/lemonadep" revision="12" remote="git" />
+  <project name="chandu078/device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="12" remote="git" />
+  <project name="chhandu078/vendor_oneplus_extras" path="vendor/oneplus/extras" revision="12" remote="git"
 </manifest>
